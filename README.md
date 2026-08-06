@@ -33,6 +33,9 @@
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vercel" title="vercel" alt="vercel" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=supabase" title="supabase" alt="supabase" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu" alt="ubuntu" width="48" height="48"/>
 <br>
 <br>
 
